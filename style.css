@@ -1,0 +1,14 @@
+main {
+    text-align: center;
+}
+ 
+p {
+    text-align: center;
+    font-family: 'IBM Plex Serif';
+}
+ 
+.box {
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-bottom: 10rem;
+}
